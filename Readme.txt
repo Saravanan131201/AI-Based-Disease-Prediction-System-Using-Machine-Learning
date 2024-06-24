@@ -6,7 +6,7 @@ Database: PostgreSQL(pgAdmin - Version --8.1)
 
 Description:
 
-The integration of data analysis and machine learning has fundamentally transformed decisionmaking across various fields, notably in medicine. This evolution has revolutionized diagnostic 
+The integration of data analysis and machine learning has fundamentally transformed decision-making across various fields, notably in medicine. This evolution has revolutionized diagnostic 
 precision and personalized treatment, particularly crucial in the face of an ever-expanding array 
 of diseases and medical conditions. Traditional diagnostic methods are increasingly inadequate 
 in navigating this complex landscape, leading to uncertainty and anxiety for patients. Machine 
